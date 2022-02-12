@@ -32,12 +32,14 @@ Gain X 130241823  130249134
 third step: result
 
 CNV molecular coordinates chr10:(18503049_18509274)×Gain
+
 Full_CNV_coverage 2
 ['nsv4339713', 'sequence', 'nsv550042', 'gain']
 DGV_is_inside_CNV 1
 ['nsv4560907', 'line1']
 
 CNV molecular coordinates chr16:(47329823_47605913)×Gain
+
 Full_CNV_coverage 1
 ['nsv4252047', 'deletion']
 Covers_the_first_CNV_coordinate 8
@@ -48,12 +50,14 @@ DGV_is_inside_CNV 43
 ['esv3359649', 'insertion', 'esv3638558', 'loss', 'nsv4250494', 'deletion', 'nsv4243623', 'deletion', 'esv3652100', 'complex', 'esv3657310', 'insertion', 'nsv572537', 'loss', 'nsv4250466', 'deletion', 'nsv4245431', 'deletion', 'nsv4512831', 'alu', 'esv3657311', 'insertion', 'nsv1138449', 'deletion', 'nsv4232504', 'deletion', 'nsv4505415', 'alu', 'nsv4508628', 'alu', 'nsv4241480', 'deletion', 'esv3638561', 'gain', 'nsv4252113', 'duplication', 'nsv4236893', 'deletion', 'nsv4512094', 'alu', 'esv3892856', 'loss', 'nsv4241791', 'deletion', 'nsv1059367', 'loss', 'esv2761905', 'loss', 'nsv4513756', 'alu', 'nsv4234903', 'deletion', 'nsv4499246', 'alu', 'nsv4498347', 'alu', 'esv3638563', 'loss', 'nsv4249455', 'duplication', 'nsv4235586', 'deletion', 'nsv4241287', 'deletion', 'nsv4532580', 'deletion', 'nsv4503816', 'alu', 'esv3638565', 'loss', 'nsv4243818', 'deletion', 'nsv974811', 'duplication', 'nsv4233196', 'deletion', 'nsv4506304', 'alu', 'nsv4565238', 'line1', 'nsv4566385', 'line1', 'nsv974812', 'duplication', 'esv3657312', 'insertion']
 
 CNV molecular coordinates chr18:(34589110_34596630)×Gain
+
 Full_CNV_coverage 1
 ['nsv4336672', 'sequence']
 DGV_is_inside_CNV 2
 ['nsv4254634', 'deletion', 'nsv4556750', 'insertion']
 
 CNV molecular coordinates chrX:(130241823_130249134)×Gain
+
 Full_CNV_coverage 1
 ['nsv528290', 'gain']
 Covers_the_first_CNV_coordinate 3
