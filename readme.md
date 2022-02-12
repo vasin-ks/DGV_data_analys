@@ -15,7 +15,8 @@ Description and tasks: This script is written to work with CNV (deletions, dupli
 3-Next, you will copy all (124) the data for this CNV Columns from the CHAS program.  4 column from.
   1:Type 2:Chromosome 3:Min 4:Max
 
-# Example
+
+ Example
 
 first step
 
