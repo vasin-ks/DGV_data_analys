@@ -25,8 +25,11 @@ Number of CNV:4
 second step: copy 4 cnv =   1:Type 2:Chromosome 3:Min 4:Max
 
 Gain 10 18503049 18509274
+
 Gain 16 47329823 47605913
+
 Gain 18 34589110 34596630
+
 Gain X 130241823  130249134
 
 third step: result
